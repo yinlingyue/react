@@ -1,0 +1,48 @@
+{
+	"ret": true,
+	"data": {
+		"categories" : [{
+			"category_id": 1,
+			"category_name": "大家说英语",
+			"icon": "appstore"
+		},{
+			"category_id": 2,
+			"category_name": "彭蒙惠英语",
+			"icon": "appstore"
+		},{
+			"category_id": 3,
+			"category_name": "空中英语教室",
+			"icon": "appstore"
+		},{
+			"category_id": 4,
+			"category_name": "voa常速英语",
+			"icon": "appstore"
+		},{
+			"category_id": 5,
+			"category_name": "voa慢速英语",
+			"icon": "appstore"
+		},{
+			"category_id": 6,
+			"category_name": "走遍美国",
+			"icon": "appstore"
+		},{
+			"category_id": 7,
+			"category_name": "英文名著",
+			"icon": "appstore"
+		},{
+			"category_id": 8,
+			"category_name": "托福考试",
+			"icon": "appstore"
+		},{
+			"category_id": 9,
+			"category_name": "美国脱口秀",
+			"icon": "appstore"
+		},{
+			"category_id": 10,
+			"category_name": "东吴相对论",
+			"icon": "appstore"
+		}]
+	}
+
+
+}
